@@ -9,7 +9,6 @@ object Boletin13 {
         var objA = Adestrador(idFederacion = "5676", id = 3, nome = "Jorge", edade = 50)
         var objM = Masaxista(titulacion = "medico", anosExperiencia = 14, id = 6, nome = "Pepe", edade = 65)
 
-
         // Ejecución de los diversos métodos
         println(objS.concentrarse())
         println(objS.viaxar())
