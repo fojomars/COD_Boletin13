@@ -15,5 +15,4 @@ class Adestrador (var idFederacion : String, id : Int, nome : String, edade : In
     override fun toString () : String{
         return "id: $id , nome: $nome , edade: $edade , idFederacion: $idFederacion"
     }
-
 }
